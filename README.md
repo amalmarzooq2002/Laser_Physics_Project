@@ -34,6 +34,6 @@ This project explores the basic principles of Helium-Neon (HeNe) lasers and thei
 
 ---
 
-## Hardware Example
+## Hardware Example Used in Analysis
 
 **Melles Griot 05-LHR-640 HeNe Laser Tube**
