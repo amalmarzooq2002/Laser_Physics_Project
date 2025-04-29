@@ -36,7 +36,7 @@ This project explores the basic principles of Helium-Neon (HeNe) lasers and thei
 
 ## Sample Animation: HeNe Laser Eigenmodes
 
-![Laser Mode Animation](Animations/cavity_modes.gif)
+<img src="Animations/cavity_modes.gif" alt="Laser Mode Animation" width="400"/>
 
 
 ## Hardware Example Used in Analysis
